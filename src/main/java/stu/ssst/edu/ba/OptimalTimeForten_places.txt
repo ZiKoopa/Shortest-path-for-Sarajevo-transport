@@ -1,0 +1,380 @@
+A: Alipašino -> B: Baščaršija : -1
+A: Alipašino -> C: Ciglane : -1
+A: Alipašino -> D: Doglodi : -1
+A: Alipašino -> E: Energoinvest Stup : -1
+A: Alipašino -> F: Ferhadija : -1
+A: Alipašino -> G: Grdonj : -1
+A: Alipašino -> H: Hrid : -1
+A: Alipašino -> I: Ilidža : -1
+A: Alipašino -> J: Jarčedole : -1
+A: Alipašino -> K: Krivoglavci : -1
+A: Alipašino -> L: Lužani : -1
+A: Alipašino -> M: Marijin Dvor : -1
+A: Alipašino -> N: Novi Grad : -1
+A: Alipašino -> O: Otoka : -1
+A: Alipašino -> P: Unknown : -1
+A: Alipašino -> Q: Unknown : -1
+A: Alipašino -> R: Unknown : -1
+A: Alipašino -> S: Unknown : -1
+A: Alipašino -> T: Unknown : -1
+B: Baščaršija -> A: Alipašino : -1
+B: Baščaršija -> C: Ciglane : -1
+B: Baščaršija -> D: Doglodi : -1
+B: Baščaršija -> E: Energoinvest Stup : -1
+B: Baščaršija -> F: Ferhadija : -1
+B: Baščaršija -> G: Grdonj : -1
+B: Baščaršija -> H: Hrid : -1
+B: Baščaršija -> I: Ilidža : -1
+B: Baščaršija -> J: Jarčedole : -1
+B: Baščaršija -> K: Krivoglavci : -1
+B: Baščaršija -> L: Lužani : -1
+B: Baščaršija -> M: Marijin Dvor : -1
+B: Baščaršija -> N: Novi Grad : -1
+B: Baščaršija -> O: Otoka : -1
+B: Baščaršija -> P: Unknown : -1
+B: Baščaršija -> Q: Unknown : -1
+B: Baščaršija -> R: Unknown : -1
+B: Baščaršija -> S: Unknown : -1
+B: Baščaršija -> T: Unknown : 92
+C: Ciglane -> A: Alipašino : 174
+C: Ciglane -> B: Baščaršija : 175
+C: Ciglane -> D: Doglodi : 32
+C: Ciglane -> E: Energoinvest Stup : 76
+C: Ciglane -> F: Ferhadija : 106
+C: Ciglane -> G: Grdonj : 127
+C: Ciglane -> H: Hrid : 16
+C: Ciglane -> I: Ilidža : 115
+C: Ciglane -> J: Jarčedole : 108
+C: Ciglane -> K: Krivoglavci : 64
+C: Ciglane -> L: Lužani : 165
+C: Ciglane -> M: Marijin Dvor : 131
+C: Ciglane -> N: Novi Grad : 94
+C: Ciglane -> O: Otoka : 82
+C: Ciglane -> P: Unknown : 208
+C: Ciglane -> Q: Unknown : 256
+C: Ciglane -> R: Unknown : 103
+C: Ciglane -> S: Unknown : 118
+C: Ciglane -> T: Unknown : 36
+D: Doglodi -> A: Alipašino : 142
+D: Doglodi -> B: Baščaršija : 143
+D: Doglodi -> C: Ciglane : 86
+D: Doglodi -> E: Energoinvest Stup : 44
+D: Doglodi -> F: Ferhadija : 139
+D: Doglodi -> G: Grdonj : 95
+D: Doglodi -> H: Hrid : 102
+D: Doglodi -> I: Ilidža : 135
+D: Doglodi -> J: Jarčedole : 141
+D: Doglodi -> K: Krivoglavci : 97
+D: Doglodi -> L: Lužani : 133
+D: Doglodi -> M: Marijin Dvor : 99
+D: Doglodi -> N: Novi Grad : 62
+D: Doglodi -> O: Otoka : 139
+D: Doglodi -> P: Unknown : 176
+D: Doglodi -> Q: Unknown : 224
+D: Doglodi -> R: Unknown : 71
+D: Doglodi -> S: Unknown : 86
+D: Doglodi -> T: Unknown : 122
+E: Energoinvest Stup -> A: Alipašino : 98
+E: Energoinvest Stup -> B: Baščaršija : 99
+E: Energoinvest Stup -> C: Ciglane : 42
+E: Energoinvest Stup -> D: Doglodi : 74
+E: Energoinvest Stup -> F: Ferhadija : 95
+E: Energoinvest Stup -> G: Grdonj : 51
+E: Energoinvest Stup -> H: Hrid : 58
+E: Energoinvest Stup -> I: Ilidža : 91
+E: Energoinvest Stup -> J: Jarčedole : 97
+E: Energoinvest Stup -> K: Krivoglavci : 53
+E: Energoinvest Stup -> L: Lužani : 89
+E: Energoinvest Stup -> M: Marijin Dvor : 55
+E: Energoinvest Stup -> N: Novi Grad : 18
+E: Energoinvest Stup -> O: Otoka : 95
+E: Energoinvest Stup -> P: Unknown : 132
+E: Energoinvest Stup -> Q: Unknown : 180
+E: Energoinvest Stup -> R: Unknown : 27
+E: Energoinvest Stup -> S: Unknown : 42
+E: Energoinvest Stup -> T: Unknown : 78
+F: Ferhadija -> A: Alipašino : 187
+F: Ferhadija -> B: Baščaršija : 185
+F: Ferhadija -> C: Ciglane : 13
+F: Ferhadija -> D: Doglodi : 45
+F: Ferhadija -> E: Energoinvest Stup : 89
+F: Ferhadija -> G: Grdonj : 140
+F: Ferhadija -> H: Hrid : 29
+F: Ferhadija -> I: Ilidža : 42
+F: Ferhadija -> J: Jarčedole : 121
+F: Ferhadija -> K: Krivoglavci : 77
+F: Ferhadija -> L: Lužani : 141
+F: Ferhadija -> M: Marijin Dvor : 144
+F: Ferhadija -> N: Novi Grad : 107
+F: Ferhadija -> O: Otoka : 95
+F: Ferhadija -> P: Unknown : 184
+F: Ferhadija -> Q: Unknown : 232
+F: Ferhadija -> R: Unknown : 116
+F: Ferhadija -> S: Unknown : 94
+F: Ferhadija -> T: Unknown : 49
+G: Grdonj -> A: Alipašino : 176
+G: Grdonj -> B: Baščaršija : 141
+G: Grdonj -> C: Ciglane : 2
+G: Grdonj -> D: Doglodi : 34
+G: Grdonj -> E: Energoinvest Stup : 78
+G: Grdonj -> F: Ferhadija : 108
+G: Grdonj -> H: Hrid : 18
+G: Grdonj -> I: Ilidža : 117
+G: Grdonj -> J: Jarčedole : 110
+G: Grdonj -> K: Krivoglavci : 66
+G: Grdonj -> L: Lužani : 167
+G: Grdonj -> M: Marijin Dvor : 133
+G: Grdonj -> N: Novi Grad : 60
+G: Grdonj -> O: Otoka : 84
+G: Grdonj -> P: Unknown : 210
+G: Grdonj -> Q: Unknown : 258
+G: Grdonj -> R: Unknown : 105
+G: Grdonj -> S: Unknown : 120
+G: Grdonj -> T: Unknown : 38
+H: Hrid -> A: Alipašino : 171
+H: Hrid -> B: Baščaršija : 284
+H: Hrid -> C: Ciglane : 109
+H: Hrid -> D: Doglodi : 141
+H: Hrid -> E: Energoinvest Stup : 185
+H: Hrid -> F: Ferhadija : 212
+H: Hrid -> G: Grdonj : 236
+H: Hrid -> I: Ilidža : 99
+H: Hrid -> J: Jarčedole : 173
+H: Hrid -> K: Krivoglavci : 173
+H: Hrid -> L: Lužani : 274
+H: Hrid -> M: Marijin Dvor : 128
+H: Hrid -> N: Novi Grad : 203
+H: Hrid -> O: Otoka : 66
+H: Hrid -> P: Unknown : 317
+H: Hrid -> Q: Unknown : 365
+H: Hrid -> R: Unknown : 94
+H: Hrid -> S: Unknown : 227
+H: Hrid -> T: Unknown : 20
+I: Ilidža -> A: Alipašino : 218
+I: Ilidža -> B: Baščaršija : 331
+I: Ilidža -> C: Ciglane : 156
+I: Ilidža -> D: Doglodi : 188
+I: Ilidža -> E: Energoinvest Stup : 232
+I: Ilidža -> F: Ferhadija : 259
+I: Ilidža -> G: Grdonj : 283
+I: Ilidža -> H: Hrid : 47
+I: Ilidža -> J: Jarčedole : 220
+I: Ilidža -> K: Krivoglavci : 220
+I: Ilidža -> L: Lužani : 321
+I: Ilidža -> M: Marijin Dvor : 175
+I: Ilidža -> N: Novi Grad : 250
+I: Ilidža -> O: Otoka : 87
+I: Ilidža -> P: Unknown : 364
+I: Ilidža -> Q: Unknown : 412
+I: Ilidža -> R: Unknown : 141
+I: Ilidža -> S: Unknown : 274
+I: Ilidža -> T: Unknown : 67
+J: Jarčedole -> A: Alipašino : 92
+J: Jarčedole -> B: Baščaršija : 137
+J: Jarčedole -> C: Ciglane : 30
+J: Jarčedole -> D: Doglodi : 62
+J: Jarčedole -> E: Energoinvest Stup : 38
+J: Jarčedole -> F: Ferhadija : 39
+J: Jarčedole -> G: Grdonj : 89
+J: Jarčedole -> H: Hrid : 46
+J: Jarčedole -> I: Ilidža : 81
+J: Jarčedole -> K: Krivoglavci : 91
+J: Jarčedole -> L: Lužani : 127
+J: Jarčedole -> M: Marijin Dvor : 49
+J: Jarčedole -> N: Novi Grad : 56
+J: Jarčedole -> O: Otoka : 83
+J: Jarčedole -> P: Unknown : 170
+J: Jarčedole -> Q: Unknown : 218
+J: Jarčedole -> R: Unknown : 15
+J: Jarčedole -> S: Unknown : 80
+J: Jarčedole -> T: Unknown : 66
+K: Krivoglavci -> A: Alipašino : 136
+K: Krivoglavci -> B: Baščaršija : 181
+K: Krivoglavci -> C: Ciglane : 55
+K: Krivoglavci -> D: Doglodi : 87
+K: Krivoglavci -> E: Energoinvest Stup : 82
+K: Krivoglavci -> F: Ferhadija : 42
+K: Krivoglavci -> G: Grdonj : 133
+K: Krivoglavci -> H: Hrid : 71
+K: Krivoglavci -> I: Ilidža : 84
+K: Krivoglavci -> J: Jarčedole : 44
+K: Krivoglavci -> L: Lužani : 171
+K: Krivoglavci -> M: Marijin Dvor : 93
+K: Krivoglavci -> N: Novi Grad : 100
+K: Krivoglavci -> O: Otoka : 127
+K: Krivoglavci -> P: Unknown : 214
+K: Krivoglavci -> Q: Unknown : 262
+K: Krivoglavci -> R: Unknown : 59
+K: Krivoglavci -> S: Unknown : 124
+K: Krivoglavci -> T: Unknown : 91
+L: Lužani -> A: Alipašino : 188
+L: Lužani -> B: Baščaršija : 44
+L: Lužani -> C: Ciglane : 14
+L: Lužani -> D: Doglodi : 46
+L: Lužani -> E: Energoinvest Stup : 90
+L: Lužani -> F: Ferhadija : 120
+L: Lužani -> G: Grdonj : 141
+L: Lužani -> H: Hrid : 30
+L: Lužani -> I: Ilidža : 129
+L: Lužani -> J: Jarčedole : 122
+L: Lužani -> K: Krivoglavci : 78
+L: Lužani -> M: Marijin Dvor : 145
+L: Lužani -> N: Novi Grad : 108
+L: Lužani -> O: Otoka : 96
+L: Lužani -> P: Unknown : 43
+L: Lužani -> Q: Unknown : 91
+L: Lužani -> R: Unknown : 117
+L: Lužani -> S: Unknown : 132
+L: Lužani -> T: Unknown : 50
+M: Marijin Dvor -> A: Alipašino : 43
+M: Marijin Dvor -> B: Baščaršija : 182
+M: Marijin Dvor -> C: Ciglane : 75
+M: Marijin Dvor -> D: Doglodi : 107
+M: Marijin Dvor -> E: Energoinvest Stup : 83
+M: Marijin Dvor -> F: Ferhadija : 84
+M: Marijin Dvor -> G: Grdonj : 134
+M: Marijin Dvor -> H: Hrid : 91
+M: Marijin Dvor -> I: Ilidža : 126
+M: Marijin Dvor -> J: Jarčedole : 45
+M: Marijin Dvor -> K: Krivoglavci : 136
+M: Marijin Dvor -> L: Lužani : 172
+M: Marijin Dvor -> N: Novi Grad : 101
+M: Marijin Dvor -> O: Otoka : 128
+M: Marijin Dvor -> P: Unknown : 215
+M: Marijin Dvor -> Q: Unknown : 263
+M: Marijin Dvor -> R: Unknown : 60
+M: Marijin Dvor -> S: Unknown : 125
+M: Marijin Dvor -> T: Unknown : 111
+N: Novi Grad -> A: Alipašino : -1
+N: Novi Grad -> B: Baščaršija : 81
+N: Novi Grad -> C: Ciglane : -1
+N: Novi Grad -> D: Doglodi : -1
+N: Novi Grad -> E: Energoinvest Stup : -1
+N: Novi Grad -> F: Ferhadija : -1
+N: Novi Grad -> G: Grdonj : -1
+N: Novi Grad -> H: Hrid : -1
+N: Novi Grad -> I: Ilidža : -1
+N: Novi Grad -> J: Jarčedole : -1
+N: Novi Grad -> K: Krivoglavci : -1
+N: Novi Grad -> L: Lužani : -1
+N: Novi Grad -> M: Marijin Dvor : -1
+N: Novi Grad -> O: Otoka : -1
+N: Novi Grad -> P: Unknown : -1
+N: Novi Grad -> Q: Unknown : -1
+N: Novi Grad -> R: Unknown : -1
+N: Novi Grad -> S: Unknown : -1
+N: Novi Grad -> T: Unknown : 173
+O: Otoka -> A: Alipašino : 251
+O: Otoka -> B: Baščaršija : 364
+O: Otoka -> C: Ciglane : 189
+O: Otoka -> D: Doglodi : 221
+O: Otoka -> E: Energoinvest Stup : 265
+O: Otoka -> F: Ferhadija : 292
+O: Otoka -> G: Grdonj : 316
+O: Otoka -> H: Hrid : 80
+O: Otoka -> I: Ilidža : 33
+O: Otoka -> J: Jarčedole : 253
+O: Otoka -> K: Krivoglavci : 253
+O: Otoka -> L: Lužani : 354
+O: Otoka -> M: Marijin Dvor : 208
+O: Otoka -> N: Novi Grad : 283
+O: Otoka -> P: Unknown : 397
+O: Otoka -> Q: Unknown : 445
+O: Otoka -> R: Unknown : 174
+O: Otoka -> S: Unknown : 307
+O: Otoka -> T: Unknown : 24
+P: Unknown -> A: Alipašino : 172
+P: Unknown -> B: Baščaršija : 24
+P: Unknown -> C: Ciglane : 116
+P: Unknown -> D: Doglodi : 30
+P: Unknown -> E: Energoinvest Stup : 74
+P: Unknown -> F: Ferhadija : 105
+P: Unknown -> G: Grdonj : 125
+P: Unknown -> H: Hrid : 132
+P: Unknown -> I: Ilidža : 147
+P: Unknown -> J: Jarčedole : 107
+P: Unknown -> K: Krivoglavci : 63
+P: Unknown -> L: Lužani : 163
+P: Unknown -> M: Marijin Dvor : 129
+P: Unknown -> N: Novi Grad : 92
+P: Unknown -> O: Otoka : 169
+P: Unknown -> Q: Unknown : 48
+P: Unknown -> R: Unknown : 101
+P: Unknown -> S: Unknown : 116
+P: Unknown -> T: Unknown : 116
+Q: Unknown -> A: Alipašino : 151
+Q: Unknown -> B: Baščaršija : 126
+Q: Unknown -> C: Ciglane : 70
+Q: Unknown -> D: Doglodi : 102
+Q: Unknown -> E: Energoinvest Stup : 97
+Q: Unknown -> F: Ferhadija : 57
+Q: Unknown -> G: Grdonj : 148
+Q: Unknown -> H: Hrid : 86
+Q: Unknown -> I: Ilidža : 99
+Q: Unknown -> J: Jarčedole : 59
+Q: Unknown -> K: Krivoglavci : 15
+Q: Unknown -> L: Lužani : 186
+Q: Unknown -> M: Marijin Dvor : 108
+Q: Unknown -> N: Novi Grad : 45
+Q: Unknown -> O: Otoka : 142
+Q: Unknown -> P: Unknown : 229
+Q: Unknown -> R: Unknown : 74
+Q: Unknown -> S: Unknown : 139
+Q: Unknown -> T: Unknown : 106
+R: Unknown -> A: Alipašino : 77
+R: Unknown -> B: Baščaršija : 190
+R: Unknown -> C: Ciglane : 15
+R: Unknown -> D: Doglodi : 47
+R: Unknown -> E: Energoinvest Stup : 91
+R: Unknown -> F: Ferhadija : 118
+R: Unknown -> G: Grdonj : 142
+R: Unknown -> H: Hrid : 31
+R: Unknown -> I: Ilidža : 101
+R: Unknown -> J: Jarčedole : 79
+R: Unknown -> K: Krivoglavci : 79
+R: Unknown -> L: Lužani : 180
+R: Unknown -> M: Marijin Dvor : 34
+R: Unknown -> N: Novi Grad : 109
+R: Unknown -> O: Otoka : 68
+R: Unknown -> P: Unknown : 223
+R: Unknown -> Q: Unknown : 271
+R: Unknown -> S: Unknown : 133
+R: Unknown -> T: Unknown : 51
+S: Unknown -> A: Alipašino : 147
+S: Unknown -> B: Baščaršija : 91
+S: Unknown -> C: Ciglane : 61
+S: Unknown -> D: Doglodi : 32
+S: Unknown -> E: Energoinvest Stup : 76
+S: Unknown -> F: Ferhadija : 53
+S: Unknown -> G: Grdonj : 127
+S: Unknown -> H: Hrid : 68
+S: Unknown -> I: Ilidža : 94
+S: Unknown -> J: Jarčedole : 55
+S: Unknown -> K: Krivoglavci : 11
+S: Unknown -> L: Lužani : 47
+S: Unknown -> M: Marijin Dvor : 104
+S: Unknown -> N: Novi Grad : 94
+S: Unknown -> O: Otoka : 61
+S: Unknown -> P: Unknown : 90
+S: Unknown -> Q: Unknown : 138
+S: Unknown -> R: Unknown : 70
+S: Unknown -> T: Unknown : 85
+T: Unknown -> A: Alipašino : -1
+T: Unknown -> B: Baščaršija : -1
+T: Unknown -> C: Ciglane : -1
+T: Unknown -> D: Doglodi : -1
+T: Unknown -> E: Energoinvest Stup : -1
+T: Unknown -> F: Ferhadija : -1
+T: Unknown -> G: Grdonj : -1
+T: Unknown -> H: Hrid : -1
+T: Unknown -> I: Ilidža : -1
+T: Unknown -> J: Jarčedole : -1
+T: Unknown -> K: Krivoglavci : -1
+T: Unknown -> L: Lužani : -1
+T: Unknown -> M: Marijin Dvor : -1
+T: Unknown -> N: Novi Grad : -1
+T: Unknown -> O: Otoka : -1
+T: Unknown -> P: Unknown : -1
+T: Unknown -> Q: Unknown : -1
+T: Unknown -> R: Unknown : -1
+T: Unknown -> S: Unknown : -1

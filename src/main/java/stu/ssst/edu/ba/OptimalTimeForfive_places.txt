@@ -1,0 +1,20 @@
+A: Alipašino -> B: Baščaršija : 80
+A: Alipašino -> C: Ciglane : 55
+A: Alipašino -> D: Doglodi : 63
+A: Alipašino -> E: Energoinvest Stup : 65
+B: Baščaršija -> A: Alipašino : 79
+B: Baščaršija -> C: Ciglane : 58
+B: Baščaršija -> D: Doglodi : 23
+B: Baščaršija -> E: Energoinvest Stup : 25
+C: Ciglane -> A: Alipašino : 81
+C: Ciglane -> B: Baščaršija : 26
+C: Ciglane -> D: Doglodi : 49
+C: Ciglane -> E: Energoinvest Stup : 23
+D: Doglodi -> A: Alipašino : 56
+D: Doglodi -> B: Baščaršija : 43
+D: Doglodi -> C: Ciglane : 35
+D: Doglodi -> E: Energoinvest Stup : 2
+E: Energoinvest Stup -> A: Alipašino : 96
+E: Energoinvest Stup -> B: Baščaršija : 89
+E: Energoinvest Stup -> C: Ciglane : 63
+E: Energoinvest Stup -> D: Doglodi : 90

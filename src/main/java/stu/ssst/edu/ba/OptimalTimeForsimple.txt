@@ -1,0 +1,6 @@
+A: Alipašino -> B: Baščaršija : 10
+A: Alipašino -> C: Ciglane : 30
+B: Baščaršija -> A: Alipašino : 25
+B: Baščaršija -> C: Ciglane : 20
+C: Ciglane -> A: Alipašino : 5
+C: Ciglane -> B: Baščaršija : 15
